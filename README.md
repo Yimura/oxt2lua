@@ -1,6 +1,6 @@
 # Oxt2Lua
 
-This script will convert oxt files to a lua script that can be for FiveM servers.
+This script will convert oxt files to a lua script that can be used for FiveM resources.
 
 ## What does it do?
 
@@ -11,4 +11,4 @@ This tool parses such files and converts them to a drop in lua script.
 There's an example oxt file to test it yourself.
 
 
-The tool will output `vehicle_name.lua` file, you can rename it to anything want.
+The tool will output `vehicle_name.lua` file, you can rename it to anything you want.
